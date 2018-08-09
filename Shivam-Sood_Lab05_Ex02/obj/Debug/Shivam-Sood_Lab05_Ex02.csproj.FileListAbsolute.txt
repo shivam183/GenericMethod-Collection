@@ -1,0 +1,6 @@
+C:\Programming 3\Shivam-Sood_Lab05Sec003\Shivam-Sood_Lab05_Ex02\bin\Debug\Shivam-Sood_Lab05_Ex02.exe.config
+C:\Programming 3\Shivam-Sood_Lab05Sec003\Shivam-Sood_Lab05_Ex02\bin\Debug\Shivam-Sood_Lab05_Ex02.exe
+C:\Programming 3\Shivam-Sood_Lab05Sec003\Shivam-Sood_Lab05_Ex02\bin\Debug\Shivam-Sood_Lab05_Ex02.pdb
+C:\Programming 3\Shivam-Sood_Lab05Sec003\Shivam-Sood_Lab05_Ex02\obj\Debug\Shivam-Sood_Lab05_Ex02.csproj.CoreCompileInputs.cache
+C:\Programming 3\Shivam-Sood_Lab05Sec003\Shivam-Sood_Lab05_Ex02\obj\Debug\Shivam-Sood_Lab05_Ex02.exe
+C:\Programming 3\Shivam-Sood_Lab05Sec003\Shivam-Sood_Lab05_Ex02\obj\Debug\Shivam-Sood_Lab05_Ex02.pdb
